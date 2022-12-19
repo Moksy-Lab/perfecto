@@ -4,11 +4,11 @@
 Moksy - 💯% Free Professional e-Learning Templates
 
 ## Short Into 
-Best free professional e-Learing themes to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well documented code. 
+Best free professional e-Learning themes to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well documented code. 
 
 ## License 
 
-moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
+Moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
 
 ## 🍺🍺🍺 Buy Us a beer🍺🍺🍺
@@ -37,11 +37,11 @@ Contact us
 
 ## Live site Preview 
 
-[Epsiloni](https://moksy.com/templates/epsiloni)
+[EL Perfecto](https://moksy.com/templates/perfecto/?project_id=14546)
 
 
 ## Github Preview 
-[Epsiloni](https://moksy-lab.github.io/epsiloni/)
+[EL Perfecto](https://moksy-lab.github.io/epsiloni/)
 
 
 ## Like our project ? 
@@ -67,12 +67,12 @@ Contact us
 ## Do you want to contribute ? 
 Please just join as contributor 
 
-Made with love 🧡 by moksy lab 
+Made with love 🧡 by Moksy Lab 
 
 ## Developers 
 [Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)
 [Rayan Chowdhury Bioy](https://www.linkedin.com/in/rayhan-chowdhury-bijoy-b787ab224/)
-[Tajul Islam](#)
+[Tajul Islam](https://github.com/627md-Tajul-Islam)
 [Adam Levine](#)
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
 
