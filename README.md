@@ -41,7 +41,7 @@ Contact us
 
 
 ## Github Preview 
-[EL Perfecto](https://moksy-lab.github.io/epsiloni/)
+[EL Perfecto](https://moksy-lab.github.io/perfecto/)
 
 
 ## Like our project ? 
