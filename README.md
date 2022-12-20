@@ -71,9 +71,13 @@ Made with love 🧡 by Moksy Lab
 
 ## Developers 
 [Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)
+
 [Rayan Chowdhury Bioy](https://www.linkedin.com/in/rayhan-chowdhury-bijoy-b787ab224/)
+
 [Tajul Islam](https://github.com/627md-Tajul-Islam)
+
 [Adam Levine](#)
+
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
 
 
